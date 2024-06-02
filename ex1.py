@@ -1,3 +1,5 @@
+# Autor Yannic Schütz 1542618
+
 import numpy as np
 import scipy.io.wavfile as wav
 import matplotlib.pyplot as plt
