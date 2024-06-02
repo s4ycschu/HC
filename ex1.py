@@ -32,5 +32,5 @@ def analyze_and_plot(filename, block_size=1024, hop_length=512):
     plt.show()
 
 if __name__ == "__main__":
-    filename = r'D:\\Master Trier\\HC\\nicht_zu_laut_abspielen.wav'  # Replace with your WAV file path
+    filename = r'D:\\Master Trier\\HC\\nicht_zu_laut_abspielen.wav' 
     analyze_and_plot(filename, block_size=1024, hop_length=512)
