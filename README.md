@@ -1,3 +1,6 @@
+Einen speziellen Frequenzmix konnte ich leider nicht finden. 
+
+
 Line #    Mem usage    Increment  Occurrences   Line Contents
 =============================================================
     12     67.4 MiB     67.4 MiB           1   @profile
@@ -50,4 +53,4 @@ Line #    Mem usage    Increment  Occurrences   Line Contents
     32   1467.8 MiB    536.8 MiB           1       plt.show()
     
 This is the memory usage from my M1 Macbook Pro
-Man kann einen deutlichen Unterschied bei dem Speicherverbrauch feststellen. 
+Man kann einen deutlichen Unterschied bei dem Speicherverbrauch feststellen. Dies liegt offensichtlich an der geänderten Hardware, sowie an dem anderen Betriebssystem. 
