@@ -52,7 +52,7 @@ Line #    Mem usage    Increment  Occurrences   Line Contents
     31    931.0 MiB      0.0 MiB           1       plt.ylabel('Frequency (Hz)')
     32   1467.8 MiB    536.8 MiB           1       plt.show()
     
-This is the memory usage from my M1 Macbook Pro
+memory usage  M1 Macbook Pro
 Man kann einen deutlichen Unterschied bei dem Speicherverbrauch feststellen. Dies liegt offensichtlich an der geänderten Hardware, sowie an dem anderen Betriebssystem. 
 
 
