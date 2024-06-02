@@ -1,4 +1,4 @@
-Einen speziellen Frequenzmix konnte ich leider nicht finden. 
+Einen speziellen Frequenzmix konnte ich leider nicht finden. Es sind unterschiedliche Frequenzen zu erkennen, aber um hier eine genauere Analyse durchführen zu können fehlt mir leider die Fachkompetenz.
 
 
 Line #    Mem usage    Increment  Occurrences   Line Contents
@@ -79,3 +79,6 @@ Line #    Mem usage    Increment  Occurrences   Line Contents
     30    483.8 MiB      0.0 MiB           1       plt.xlabel('Time (s)')
     31    483.8 MiB      0.0 MiB           1       plt.ylabel('Frequency (Hz)')
     32    646.7 MiB    162.9 MiB           1       plt.show()
+Old Windows Laptop
+
+Der Speicherverbauch auf meinen beiden Windows-Geräten ist änhlich. Den größten Unterschied scheint somit wohl das Betriebssystem zu machen. Ich würde gerne noch ein anderes Aplle-Gerät testen, habe aber leider nicht die Möglichkeit.
